@@ -9,15 +9,16 @@ justify-content:center;
 }
 
 .boxtwo{
-border-style:solid;
+  border-style:solid;
 height:40px;
 width:900px;
-background-color:white;
+background-color: white;
 border-color:black;
 display:flex;
- font-family: 'Cormorant Infant', serif; 
-}
-#bar{
+ font-family: 'Cormorant Infant', serif;
+ }
+
+#bar{ 
 display:flex;
 border-style:solid;
 height:40px;
@@ -93,7 +94,7 @@ height:600px;
 width:900px;
 margin-top: 200px;
 margin-bottom:200px;
-background-color:FF0000;
+background-color:#FF0000;
 display:flex;
 font-family: 'Cormorant Infant', serif;
 }
