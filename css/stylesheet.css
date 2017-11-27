@@ -59,45 +59,58 @@ display:flex;
 border-style:solid;
 height:500px;
 width:900px;
-margin-top: 33px;
-margin-bottom: 33px;
-background-color: #FF530D;
-display:flex;
+margin-top:33px;
+margin-bottom:33px;
+background-color:#FF530D;
 font-family:'Cormorant Infant', serif;
+display:flex;
 }
-/*I am not sure I like this tea set due to its background color*/
 .boxseven{
 border-style:solid;
 height:400px;
 width:900px;
-margin-bottom: 33px;
-background-color: #FF530D;
-display:flex;
-font-family:'Cormorant Infant', serif; 
-
-}
-/*I wish I can make the image bigger without throwing everything off*/
-.boxeight{
-border-style:solid;
-height:600px;
-width:900px;
-margin-top: 200px;
-margin-bottom: 200px;
-background-color: #E82C0C;
+margin-bottom:33px;
+background-color:#FF530D;
 font-family:'Cormorant Infant', serif;
 display:flex;
 }
-/*I am not sure of the background color for the text*/
-.boxnine{
+
+  
+/*I wish I can make the image bigger without throwing everything off*/
+.boxeight{
+border-style:solid;
+height:1000px;
+width:900px;
+background-color: #E82C0C;
+display:flex;}
+#pictureone{
 border-style:solid;
 height:600px;
 width:900px;
+margin-top:200px;
+margin-bottom:200px;
+background-color: white;
+font-family:'Cormorant Infant', serif;
+display:flex;}
+
+/*I am not sure of the background color for the text*/
+.boxnine{
+border-style:solid;
+height:1000px;
+width:900px;
+background-color: #FF0000;
+display:flex;}
+#pictureone{
+    border-style:solid;
+    height:600px;
+    width:900px;
 margin-top: 200px;
 margin-bottom:200px;
-background-color:#FF0000;
+background-color:white;
 display:flex;
 font-family: 'Cormorant Infant', serif;
 }
+
 
 /*The appearance of this website looks a bit off*/
 
