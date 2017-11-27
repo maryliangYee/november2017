@@ -54,7 +54,9 @@ background-color:#E82C0C;
 display:flex;
     font-family: 'Cormorant Infant', serif;
 }
-/*margin:auto;*/
+
+/*I just cannot figure out how to put in the color borders*/
+/*I wonder if it is the size of my screen, must check on this*/
 .boxsix{
 border-style:solid;
 height:500px;
